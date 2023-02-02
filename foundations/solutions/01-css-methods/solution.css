@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+}
+
+.header {
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    width: 1900px;
+    height: 45px;
+    background-color: red;
+}
