@@ -1,0 +1,36 @@
+
+.para-div p {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.para-small-div p {
+    font-weight: bold;
+}
+
+button {
+    border: 2px solid black;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.button-confirm {
+    color: white;
+    background-color: green;
+    font-weight: bold;
+}
+
+.button-cancel {
+    background-color: white;
+}
+
+.text-div {
+    font-size: 25px;
+}
+
+.text-div-child-child {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
