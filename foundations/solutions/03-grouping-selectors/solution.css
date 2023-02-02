@@ -1,0 +1,18 @@
+body {
+    font-family: Helvetica, 'Times New Roman', sans-serif ;
+}
+
+button {
+    cursor: pointer;
+    font-size: 28px;
+}
+
+.button-one {
+    color: white;
+    background-color: black;
+}
+
+.button-two {
+    color: black;
+    background-color: yellow;
+}
